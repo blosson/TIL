@@ -1,4 +1,4 @@
-# 📗TIL📙
+# 📗TIL (Today I Learned)📙
 
  - [Profile: Blosson](http://github.com/blosson)
 ---
