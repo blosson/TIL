@@ -3,14 +3,11 @@
 ---
 ### Ground Rule
 
-1. 어뷰징 하지 않는다.
-  - 솔직하게 작성한다
+`배운 것을 솔직하게 기록하고 복습합니다.`
 
 ---
 
-### Markdown 학습
-  - 제목 표현하기
-    제목은 #
 
-  - [220714 Git](http://github.com/blosson)
+
+  - [220714_Git](https://github.com/blosson/TIL/blob/master/220714_git.md
   - [blosson](http://github.com/blosson)
