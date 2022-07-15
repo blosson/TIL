@@ -13,5 +13,5 @@
   - [220714_Git](https://github.com/blosson/TIL/blob/master/220714_Git.md)
   - [220714_CLI](https://github.com/blosson/TIL/blob/master/220714_CLI.md)
   - [220714_Markdown](https://github.com/blosson/TIL/blob/master/220714_Markdown.md)
-  - [220714_GitAdvanced](https://github.com/blosson/TIL/blob/master/220715_GitAdvanced.md)
-  - [220714_Request](https://github.com/blosson/TIL/blob/master/220715_Request.md)
+  - [220715_GitAdvanced](https://github.com/blosson/TIL/blob/master/220715_GitAdvanced.md)
+  - [220715_Request](https://github.com/blosson/TIL/blob/master/220715_Request.md)
