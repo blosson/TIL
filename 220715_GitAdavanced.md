@@ -22,7 +22,7 @@
     -> 처음은 clone or pull 상관없음. BUT 이후에는 계속 pull로 가져와야 함. clone으로 가져오면 계속 새로운 폴더와 README.md 파일이 생성되기 때문이다. 즉, 로컬 repo가 원격 repo와 연결되어 있는 경우에는 pull을 쓰면 됨. 
 
     1. `git remote add origin URL`
-    2. `git remove -v` : origin URL __(등록한 Remote Repository 정보 확인)__
+    2. `git remote -v` : origin URL __(등록한 Remote Repository 정보 확인)__
     3. git push -u origin master : 로컬에서 생긴 커밋 내역을 업로드 
       - -u로 입력하면 그 다음부터는 git push 만 입력해도 커밋이 됨
     4. `git pull origin master` : 원격 저장소의 변경 사항을 __업데이트__
