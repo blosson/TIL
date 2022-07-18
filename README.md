@@ -15,3 +15,4 @@
   - [220714_Markdown](https://github.com/blosson/TIL/blob/master/220714_Markdown.md)
   - [220715_GitAdvanced](https://github.com/blosson/TIL/blob/master/220715_GitAdvanced.md)
   - [220715_Request](https://github.com/blosson/TIL/blob/master/220715_Request.md)
+  - [220718_Python_Basic](https://github.com/blosson/TIL/blob/master/220718_Python_basic.md)
